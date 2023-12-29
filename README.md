@@ -1,4 +1,4 @@
-****   YI - AI Cam Software   ****
+**YI - AI Cam Software**
 
 This software performs polling and storage for YI cams connected to the local network and automatically connects to new YI ip cameras found in the LAN.
 
